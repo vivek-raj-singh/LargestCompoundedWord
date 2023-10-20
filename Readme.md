@@ -1,4 +1,4 @@
-* ## steps to execute this code
+* ## Steps to execute this code
 
 1-Make sure you have a C++ development environment set up.<br />
 
